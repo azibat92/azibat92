@@ -17,14 +17,16 @@ Networking: Tcp/IP,DNS, Load Balancings, vpn, site to site Vpc.
 Security: IAM, SSL/TLS, Firewalls. 
 
 Tools
-
+Divided into three, Development tools, Monitoring tools, and Devops. which include the following.
+AWS codecommit, Aws codedeploy, Aws Cloud9. Aws commandline interface (Aws Cli), Aws codebuild, Aws X-Ray, Aws cloudwatch, Aws cloudtrail  
 
 
 
 
 Cartifications.
-AWS Cloud Practitioner 
-AWS
+AWS Cloud Practitioner.
+AWS solution Arcitect.
+AZURE Administration. 
 
 
 
